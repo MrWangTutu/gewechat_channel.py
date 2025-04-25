@@ -7,7 +7,7 @@
 ## 🛠️ 使用方法
 
 ​**1、一键替换方案**​  
-1. 将本文件替换至目录：`/dify-on-wechat-gewe/channel/gewechat/gewechat_channel.py`
+1. 将gewechat_channel.py文件替换至目录：`/dify-on-wechat-gewe/channel/gewechat/gewechat_channel.py`
 2. 重启项目服务
 
 ​**2、手动修改方案**​  
